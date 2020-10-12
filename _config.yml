@@ -45,14 +45,14 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            ""
-  resume_twitter_url:           ""
-  resume_dribbble_url:          ""
+  #resume_github_url:            ""
+  #resume_twitter_url:           ""
+  #resume_dribbble_url:          ""
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/sujal1208"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://patelsujal.com"
-  resume_medium_url:            ""
+  #resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
