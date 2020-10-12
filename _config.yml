@@ -46,7 +46,7 @@ resume_section_associations:    false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            ""
-  resume_twitter_url:           "
+  resume_twitter_url:           ""
   resume_dribbble_url:          ""
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/sujal1208"
