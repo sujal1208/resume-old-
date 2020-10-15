@@ -81,7 +81,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
+  border-top: 2px solid #E8E5E5;
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
@@ -160,7 +160,7 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: #333;
+      color: #c7c7c7;
       text-decoration: none;
       border-bottom: 1px solid;
 
