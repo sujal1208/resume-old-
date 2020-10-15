@@ -28,4 +28,4 @@
   duration: March, 2019 &mdash; April, 2019
 #   url: "www.youtube.com/nostalgicmemorieshd"
 #   url: "www.nostalgicmemorieshd.com"
-  description: Created a Java based project that sole purpose was to add two polynomial expressions together in an efficient algorithm. Utilized an arraylist data structure to dynamically allocate enough array space for each expression without any  penalty hit towards efficiency.
+  description: Created a Java based project that sole purpose was to add two polynomial expressions together in an efficient algorithm. Utilized an arraylist data structure to dynamically allocate enough array space for each expression without any penalty hit towards efficiency.
