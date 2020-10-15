@@ -1,12 +1,18 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Java
+  description: 2 Years of Java Experience (70% comfort level)
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: C
+  description: 1 Year of C Experience (50% comfort level)
+  
+- skill: Swift
+ description: 1 Year of C Experience (30% comfort level)
+ 
+- skill: HTML & CSS
+ description: 1 Year of C Experience (50% comfort level)
 
 # Digital content development and creation
 - skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  description: Adobe Lighroom, Photoshop, After Effects
