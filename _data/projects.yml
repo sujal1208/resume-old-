@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Minecraft Identification App
+  role: Founder & Primary Developer
+  duration: November, 2020 &mdash; Present
+  #url: "https://www.slightlydrunkapp.com"
+  description: Designed an iOS application based upon finding the identification number of each block or items in Minecraft. Currently building and testing various different user interfaces to minimize search time by utilizing the API called Core Data in Swift instead traditional data structures.
+
 
 - project: Never Again Party Game
   role: Founder & Primary Developer
@@ -23,9 +29,9 @@
 #   url: "www.nostalgicmemorieshd.com"
   description: Developed a program in C that reads a file and build an electric circuit and return all the possible combination of a truth table. Helped teach students learn more in depth with circuits by teaching them about truth tables. 
 
-- project: Polynomial, Expression Evaluator
+- project: Expression Calculator
   role: Primary Developer
   duration: March, 2019 &mdash; April, 2019
 #   url: "www.youtube.com/nostalgicmemorieshd"
 #   url: "www.nostalgicmemorieshd.com"
-  description: Created a Java based project that sole purpose was to add two polynomial expressions together in an efficient algorithm. Utilized an arraylist data structure to dynamically allocate enough array space for each expression without any penalty hit towards efficiency.
+  description: Built a simple calculator that takes in two polynomial expressions and returns the final expression solved for a school project. This calculator was built by using efficient data structures such as an array, link list in Java to return the fastest answer.
