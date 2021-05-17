@@ -3,9 +3,9 @@
 
 - project: Minecraft Identification App
   role: Founder & Primary Developer
-  duration: November, 2020 &mdash; Present
+  duration: November, 2020 &mdash; December 2020
   #url: "https://www.slightlydrunkapp.com"
-  description: Designed an iOS application based upon finding the identification number of each block or items in Minecraft. Currently building and testing various different user interfaces to minimize search time by utilizing the API called Core Data in Swift instead traditional data structures.
+  description: Designed an basic iOS application based upon finding the identification number of each block or items in Minecraft.
 
 
 - project: Never Again Party Game
