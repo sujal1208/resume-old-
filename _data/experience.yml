@@ -8,4 +8,4 @@
 - company: Collabera
   position: IT Intern
   duration: January, 2021 &mdash; Current
-  summary: Part of the Data Science Team to help analyize job descriptions and create a machine learning model to predict which candidates would be the best fit to hire/recruit depending on job category. 
+  summary: Created a machine learning project in python that pulled data from excel file(s) and predicted where each row should be categorized. Programmed the model to clean and strip each row of any HTML Tags to make the file more legible. Engineered the model to output at a 70% accuracy rating.
