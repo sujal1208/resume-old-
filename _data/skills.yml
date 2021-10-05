@@ -1,24 +1,20 @@
 # Skills
 # Organizational leadership
+- skill: Microsoft Office
+  description: Teams, Excel, Word, PowerPoint, Outlook
+  
+- skill: Apple Support
+  description: macOS, iPadOS, iOS, MacBook Troublshooting, Jamf
+  
+- skill: Microsoft Active Directory
+  description: Password Reset, Lockouts, Disable, Change Description
+
 - skill: Java
   description: 2 Years of Java Experience
-
-# Communications strategy
-- skill: C
-  description: 1 Year of C Experience
-  
-- skill: Swift
-  description: 1 Year of Swift Experience
- 
-- skill: HTML & CSS
-  description: 1 Year of HTML & CSS Experience
   
 - skill: Python
-  description: 4 Months (currently learning and implementing)
+  description: 4 Months
 
 # Digital content development and creation
 - skill: Digital Content Development & Creation
   description: Adobe Lighroom, Photoshop, After Effects
-  
-- skill: Microsoft Office
-  description: Teams, Excel, Word, PowerPoint, Outlook
